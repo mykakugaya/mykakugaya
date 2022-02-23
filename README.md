@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 - 💬 I am a software engineer and full-stack web developer, currently pursuing my BA in Computer Science at Boston University (expected graduation 6/2022). My passion for software development grew after taking UCLA's Full-Stack Web Development Bootcamp in 2020, where I collaborated with mentors and teams to create web projects in Javascript and React.
 
-- ⚡ My most recently completed project is Tempo Keeper, an Android mobile application in Java that allows users to customize their running routes and play music that dynamically changes to match their live running pace. I worked with an agile development team on a weekly scrum master rotation to implement Spotify, Google Directions, and Google Elevations APIs. 
+- ⚡ My most recently completed project is Tempo Keeper, an Android mobile application in Java with a Firebase backend that allows users to customize their running routes and play music that dynamically changes to match their live running pace. I worked with an agile development team on a weekly scrum master rotation to implement Spotify, Google Directions, and Google Elevations APIs. 
 
 - ✨ I’m currently working with a team on an agile mobile app development project utilizing React Native and a Firebase backend. Our application, Minute, provides users with a practical solution to practice public speaking and build confidence for daily conversations, presentations, and interviews.
 
