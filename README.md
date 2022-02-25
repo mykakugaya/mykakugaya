@@ -1,28 +1,14 @@
 ### Hi there 👋 My name is Myka! (my-kuh) 😄
 
-<!--
-**mykakugaya/mykakugaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 - 💬 I am a software engineer and full-stack web developer, currently pursuing my BA in Computer Science at Boston University (expected graduation 6/2022). My passion for software development grew after taking UCLA's Full-Stack Web Development Bootcamp in 2020, where I collaborated with mentors and teams to create web projects in Javascript and React.
 
-- ⚡ My most recently completed project is Tempo Keeper, an Android mobile application in Java with a Firebase backend that allows users to customize their running routes and play music that dynamically changes to match their live running pace. I worked with an agile development team on a weekly scrum master rotation to implement Spotify, Google Directions, and Google Elevations APIs. 
+- ⚡ My most recently completed project is [Tempo Keeper](https://github.com/mykakugaya/tempo-keeper), an Android mobile application in Java with a Firebase backend that allows users to customize their running routes and play music that dynamically changes to match their live running pace. I worked with an agile development team on a weekly scrum master rotation to implement Spotify, Google Directions, and Google Elevations APIs. 
 
-- ✨ I’m currently working with a team on an agile mobile app development project utilizing React Native and a Firebase backend. Our application, Minute, provides users with a practical solution to practice public speaking and build confidence for daily conversations, presentations, and interviews.
+- ✨ I’m currently working with a team on an agile mobile app development project utilizing React Native and a Firebase backend. Our application, [Minute](https://github.com/andyyvo/minute), provides users with a practical solution to practice public speaking and build confidence for daily conversations, presentations, and interviews.
 
 - 🌱 I’m also currently learning how to analyze cyberattack TTPs in a malware reverse engineering course using C/C++. By identifying harmful IOCs in malware through a VirtualBox VM, we utilize Ghidra, PE-Bear, and other debugging platforms to identify how/what/why the malware is running.
 
-- 👩‍💻 Languages/Frameworks + Skills
+- 👩‍💻 My Languages, Frameworks, + Skills
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
@@ -48,7 +34,7 @@ Here are some ideas to get you started:
 
 ... and more 😄
 
-- 📫 Contact Me!
+- 📫 Contact me!
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mykakug129@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mykakugaya/)
