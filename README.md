@@ -2,13 +2,12 @@
 
 - 💬 I am a software engineer and full-stack web developer, currently pursuing my BA in Computer Science at Boston University (expected graduation 6/2022 👩‍🎓). My passion for software development grew after taking UCLA's Full-Stack Web Development Bootcamp in 2020, where I collaborated with mentors and teams to create full-stack web projects in Javascript and React.
 
-- ✔️ My most recently completed project is [Tempo Keeper](https://github.com/mykakugaya/tempo-keeper), an Android mobile application in Java with a Firebase backend that allows users to customize their running routes and play music that dynamically changes to match their live running pace. I worked with an agile development team on a weekly scrum master rotation to implement Spotify, Google Directions, and Google Elevations APIs. 
-
-- ✨ I’m currently working with a team on a React web app development project utilizing a Firebase backend. Our application, [Minute](https://minute-app.herokuapp.com/), provides users with a practical solution to practice public speaking and build confidence for daily conversations, presentations, and interviews. [Minute Code Repository](https://github.com/andyyvo/minute-react)
-
-- 🌱 I’m also currently learning how to analyze cyberattack TTPs in a malware reverse engineering course using C/C++. By identifying harmful IOCs in malware through a VirtualBox VM, we utilize Ghidra, PE-Bear, and other debugging platforms to identify how/what/why the malware is running.
-
-- 👩‍💻 My Languages, Framworks, + Tools
+- Recent Projects
+  - 🌱 My most recently completed project is [Ransomwhere?](https://github.com/cs501-ransomwhere), a Command and Control (C2) framework that allows for remote operators to authenticate and connect to a C2 server and task any registered malicious implants. Our implant is a 2-staged malware that utilizes PNG-based steganography to obfuscate payloads into PNG image pixel bits and reflectively inject the final payload as a dropper. The C2 server and implant communicate using a combination of asymmetric and symmetric encryption methods, RSA and AES cryptography. All remote operators connect to the server over TCP sockets with SSH tunneling to defend from network attacks.
+  - ✨ I’m currently wrapping up a React web app development team project utilizing a Firebase backend. Our application, [Minute](https://minute-app.herokuapp.com/), provides users with a practical solution to practice public speaking and build confidence for daily conversations, presentations, and interviews. Taking inspiration from the "one-minute word challenge", users are able to speak about a random topic for 60 seconds and receive feedback about their speech patterns. [Minute Repository](https://github.com/andyyvo/minute-react)
+  - ✔️ Another recent project is [Tempo Keeper](https://github.com/mykakugaya/tempo-keeper), an Android mobile application in Java with a Firebase backend that allows users to customize their running routes and play music that dynamically changes to match their live running pace. I worked with an agile development team on a weekly scrum master rotation to implement Spotify, Google Directions, and Google Elevations APIs. 
+ 
+ - 👩‍💻 My Languages, Framworks, + Tools
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
