@@ -4,7 +4,7 @@
 
 - ✔️ My most recently completed project is [Tempo Keeper](https://github.com/mykakugaya/tempo-keeper), an Android mobile application in Java with a Firebase backend that allows users to customize their running routes and play music that dynamically changes to match their live running pace. I worked with an agile development team on a weekly scrum master rotation to implement Spotify, Google Directions, and Google Elevations APIs. 
 
-- ✨ I’m currently working with a team on a React web app development project utilizing a Firebase backend. Our application, [Minute](https://github.com/andyyvo/minute-react), provides users with a practical solution to practice public speaking and build confidence for daily conversations, presentations, and interviews.
+- ✨ I’m currently working with a team on a React web app development project utilizing a Firebase backend. Our application, [Minute](https://minute-app.herokuapp.com/), provides users with a practical solution to practice public speaking and build confidence for daily conversations, presentations, and interviews. [Minute Code Repository](https://github.com/andyyvo/minute-react)
 
 - 🌱 I’m also currently learning how to analyze cyberattack TTPs in a malware reverse engineering course using C/C++. By identifying harmful IOCs in malware through a VirtualBox VM, we utilize Ghidra, PE-Bear, and other debugging platforms to identify how/what/why the malware is running.
 
