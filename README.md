@@ -1,7 +1,6 @@
 ### Hi there 👋 My name is Myka! (my-kuh)
 
 - 💬 I am a software engineer & full-stack web developer and recently obtained my B.A. in Computer Science from Boston University (graduated August 2022 👩‍🎓). My passion for software development grew after taking UCLA's Full-Stack Web Development Bootcamp in 2020, where I collaborated with mentors and teams to create full-stack web projects in Javascript and React.
-- Check out my web portfolio at https://mykakugaya.github.io/portfolio-site/!
 
 - Recent Projects
   - 🌱 My most recently completed project is [Ransomwhere?](https://github.com/cs501-ransomwhere), a Command and Control (C2) framework that allows for remote operators to authenticate and connect to a C2 server and task any registered malicious implants. Our implant is a 2-staged malware that utilizes PNG-based steganography to obfuscate payloads into PNG image pixel bits and reflectively inject the final payload as a dropper. The C2 server and implant communicate using a combination of asymmetric and symmetric encryption methods, RSA and AES cryptography. All remote operators connect to the server over TCP sockets with SSH tunneling to defend from network attacks.
